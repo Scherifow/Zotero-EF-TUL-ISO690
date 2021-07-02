@@ -7,5 +7,5 @@ _E.g. (Novák, 2020) nebo (Průcha, 2021)_
 
 Klasický Zotero ISO-690 (české) nepíše čárku za jménem. Píše jen _(Novák 2020)_. To je hrozně otravné pokud počet citací roste, tak nechce pokaždé dopisovat čárku za jméno.
 
-[Zde je video]() jak stáhnout styl a nahrát ho do Zotera.
+[Zde je video](https://youtu.be/yJgkERTqqaM) jak stáhnout styl a nahrát ho do Zotera.
 
