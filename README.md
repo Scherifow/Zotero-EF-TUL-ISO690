@@ -1,3 +1,5 @@
+**Již není aktulání citační norma se změnila**
+
 # Zotero-EF-TUL-ISO690
 Citační styl pro EF TUL podle [Směrnice děkana č. 1 /2019](http://www.ef.tul.cz/document/899)
 
